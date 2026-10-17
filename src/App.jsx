@@ -248,7 +248,7 @@ export default function App() {
             <div className="project-card">
               <div className="project-file">/projects/food-ordering</div>
               <h3>Full-Stack Food Ordering Platform</h3>
-              <p className="project-problem"><span>problem:</span> small restaurants overpay commission fees to third-party delivery apps for basic ordering.</p>
+              <p className="project-problem"><span>problem:</span> small restaurants often rely on printed menus or static PDFs that cannot be easily updated when prices change or items sell out.</p>
               <p className="project-desc">
                 A React frontend with cart state and a responsive UI, backed by a Node.js/Express REST API for
                 menu management and order processing. Designed a token-based order-tracking system where
