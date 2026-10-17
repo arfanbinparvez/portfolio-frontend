@@ -165,12 +165,9 @@ export default function App() {
           </div>
           <h2 style={{ marginBottom: 18 }}>About</h2>
           <p className="about-text">
-            I'm a Computer Science Engineering graduate with hands-on experience in{' '}
-            <strong>Java, MySQL, REST APIs, Node.js and Solidity</strong>, built through internships and a handful
-            of self-directed projects. Through my experiences, I gravitated toward the backend development, focusing on modeling data,
-            designing APIs, and reasoning about how a system behaves under real use rather than just in a demo.
-            I'm now looking for a backend engineering role where I can go deeper on that side of the stack, while also staying 
-            open to full-stack opportunities that let me contribute across the board.
+            Computer Science graduate with a strong foundation in software engineering built through comprehensive academic coursework and internship experiences. 
+            Proficient in{' '} <strong>Java, SQL, and Web technologies</strong>, with hands-on experience designing APIs and modeling data through self-aligned independent projects.  
+            Eager to leverage both academic knowledge and technical skills in a full-time Software Engineering role.
           </p>
         </section>
 
