@@ -110,7 +110,7 @@ export default function App() {
           <div>
             <p className="eyebrow">available for backend engineer roles</p>
             <h1>
-              Growing as a backend engineer —<br />with a strong pull toward <span className="accent">Java</span> &amp; database management.
+              Focused on backend systems engineering &mdash;<br />building high-availability services with <span className="accent">Java</span> and relational database management.
             </h1>
             <p className="hero-sub">
               Computer Science graduate and aspiring backend engineer focused on professional growth, with
@@ -371,7 +371,7 @@ export default function App() {
         </section>
 
         <footer className="footer">
-          <span>built by Arfan — React + Vite</span>
+          <span>&copy; {new Date().getFullYear()} Arfan &bull; Powered by React + Vite</span>
           <VisitCounter />
         </footer>
       </div>
