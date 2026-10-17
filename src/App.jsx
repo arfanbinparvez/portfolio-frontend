@@ -165,7 +165,7 @@ export default function App() {
           </div>
           <h2 style={{ marginBottom: 18 }}>About</h2>
           <p className="about-text">
-            Computer Science graduate with a strong foundation in software engineering built through comprehensive academic coursework and internship experiences. 
+            I'm a recent computer Science graduate with a strong foundation in software engineering built through comprehensive academic coursework and internship experiences. 
             Proficient in{' '} <strong>Java, SQL, and Web technologies</strong>, with hands-on experience designing APIs and modeling data through self-aligned independent projects.  
             Eager to leverage both academic knowledge and technical skills in a full-time Software Engineering role.
           </p>
