@@ -110,7 +110,7 @@ export default function App() {
           <div>
             <p className="eyebrow">available for backend engineer roles</p>
             <h1>
-              Focused on backend systems engineering &mdash;<br />building high-availability services with <span className="accent">Java</span> and relational database management.
+              Growing as a backend developer &mdash;<br />focusing on core <span className="accent">Java</span>, <span className="accent">Spring Boot</span>, and structured database systems.
             </h1>
             <p className="hero-sub">
               Computer Science graduate and aspiring backend engineer focused on professional growth, with
