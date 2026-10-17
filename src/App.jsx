@@ -214,6 +214,21 @@ export default function App() {
 
           <div className="project-grid">
             <div className="project-card">
+              <div className="project-file">/projects/school-record-system</div>
+                  <h3>Offline School Record Management System</h3>
+                  <p className="project-problem"><span>problem:</span> manual paper registers are prone to calculation errors, physical damage, and slow administrative workflows.</p>
+                  <p className="project-desc">
+                    Developed an offline Windows app by bundling a React UI, Spring Boot API, and a PostgreSQL server into an Electron installer. 
+                    Architected a 22-table PostgreSQL schema with Flyway migrations and precise numeric types to eliminate financial data drift. 
+                    Secured the system using Spring Security RBAC and built an encrypted backup system validated against abrupt power termination.
+                </p>
+                <div className="tech-chips">
+                  <span className="chip">React</span><span className="chip">Spring Boot</span><span className="chip">Electron</span><span className="chip">PostgreSQL</span><span className="chip">Spring Security</span><span className="chip">Flyway</span>
+                </div>
+            </div>
+
+            
+            <div className="project-card">
               <div className="project-file">/projects/currency-converter</div>
               <h3>Real-Time Currency Converter</h3>
               <p className="project-problem"><span>problem:</span> exchange rates drift constantly; hardcoded values go stale within hours.</p>
@@ -255,7 +270,7 @@ export default function App() {
                 <span className="chip">Solidity</span><span className="chip">ERC-721A</span><span className="chip">ERC-20</span>
               </div>
             </div>
-
+            
             <div className="project-card">
               <div className="project-file">/projects/clinic-appointment-system</div>
               <h3>Clinic Appointment Booking </h3>
