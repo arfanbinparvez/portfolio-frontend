@@ -109,15 +109,12 @@ export default function App() {
         <header className="hero">
           <div>
             <p className="eyebrow">available for backend engineer roles</p>
-            <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-white leading-relaxed">
-               Growing as a backend developer — <br />
-               <span className="font-medium text-gray-400">
-                focusing on core 
-                <span className="text-[#FF9F1C]"> Java</span>, 
-                <span className="text-[#FF9F1C]"> Spring Boot</span>, 
-                and structured database systems.
-              </span>
-            </h1>
+ <h1 className="text-2xl md:text-3xl font-bold tracking-tight text-white leading-tight">
+  Growing as a backend developer <br />
+  <span className="text-gray-400 font-medium text-xl md:text-2xl">
+    focusing on core <span className="accent">Java</span>, <span className="accent">Spring Boot</span>, and structured <span className="accent">database systems</span>.
+  </span>
+</h1>
             <p className="hero-sub">
               Computer Science graduate and aspiring backend engineer focused on professional growth, with
               strong interest in Java and Spring Boot. Adaptable and eager to learn, with full readiness to acquire any technical stack a 
